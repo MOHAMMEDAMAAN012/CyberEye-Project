@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ## RUN
 python cybereye_ui.py
 
-📂 File Structure
+##  📂 File Structure
 CyberEye/
 ├── core_engine.py        # Scanning logic (threaded)
 ├── cybereye_ui.py        # GUI interface (PySide6)
@@ -110,3 +110,4 @@ Exportable scan reports
 🧑‍💻 Author 
 [Mohammed Amaan]
 📅 November 2025
+
